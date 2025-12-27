@@ -6,3 +6,4 @@ def greet():
 
 
 greet()
+print("Это мини-практика Git")
